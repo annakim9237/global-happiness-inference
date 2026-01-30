@@ -1,9 +1,15 @@
 
 # Global Happiness Scores & Factors (2015 vs 2020) — Statistical Analysis
 
+**Team: Anna Hyunjung Kim & Qintao Jia**
+
 This project analyzes cross-national happiness data to understand **(1) regional differences in happiness in 2020**, **(2) changes in happiness between 2015 and 2020 (pre/post COVID period)**, and **(3) which socio-economic factors are most strongly associated with national happiness in 2020**.
 
 The analysis emphasizes **rigorous statistical workflow**: exploratory analysis, assumption checks, hypothesis testing, and model diagnostics. Results are interpreted with clear limits on causal inference.
+
+## Full PDF Reports
+- [Happiness Statistical Report](https://github.com/annakim9237/global-happiness-inference/blob/main/Happiness_pdf_report.pdf)
+- [Happiness Statistical Presentation](https://github.com/annakim9237/global-happiness-inference/blob/main/GROUP%206-final%20project%20report-Anna%20and%20Qintao.pdf)
 
 ---
 
